@@ -1,10 +1,13 @@
-# login_page_day_12
-
-A new Flutter project.
+# Flutter Beautiful Login Page UI Design and Animation - Day 12
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the repository and run the following commands:
+
+```
+flutter pub get
+flutter run
+```
 
 A few resources to get you started if this is your first Flutter project:
 
